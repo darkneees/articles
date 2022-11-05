@@ -18,6 +18,9 @@ https://habr.com/ru/post/466929/
 ### Обзор способов и протоколов аутентификации в веб-приложениях
 https://habr.com/ru/company/dataart/blog/262817/
 
+### OAuth 2.0 простым и понятным языком
+https://habr.com/ru/company/vk/blog/115163/
+
 # Структуры данных
 
 ### Структуры данных в картинках. ArrayList
