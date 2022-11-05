@@ -15,6 +15,9 @@ https://habr.com/ru/post/340146/
 ### Добавляем Refresh Token
 https://habr.com/ru/post/466929/
 
+### Обзор способов и протоколов аутентификации в веб-приложениях
+https://habr.com/ru/company/dataart/blog/262817/
+
 # Структуры данных
 
 ### Структуры данных в картинках. ArrayList
