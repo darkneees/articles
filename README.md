@@ -27,6 +27,9 @@ https://medium.com/nuances-of-programming/%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%
 ### Про токены, JSON Web Tokens (JWT), аутентификацию и авторизацию. Token-Based Authentication
 https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc#file-tokens-md
 
+### Шпаргалки по безопасности: JWT
+https://habr.com/ru/company/acribia/blog/457090/
+
 # Структуры данных
 
 ### Структуры данных в картинках. ArrayList
